@@ -1,0 +1,5 @@
+/Users/Deivid/Projects/checarCupon/checarCupon/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Deivid/Projects/checarCupon/checarCupon/bin/Debug/checarCupon.exe.mdb
+/Users/Deivid/Projects/checarCupon/checarCupon/bin/Debug/checarCupon.exe
+/Users/Deivid/Projects/checarCupon/checarCupon/obj/x86/Debug/checarCupon.exe
+/Users/Deivid/Projects/checarCupon/checarCupon/obj/x86/Debug/checarCupon.exe.mdb

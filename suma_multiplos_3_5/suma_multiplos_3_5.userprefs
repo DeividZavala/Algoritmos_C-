@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="suma_multiplos_3_5/suma_multiplos_3_5.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="suma_multiplos_3_5/Program.cs">
+    <Files>
+      <File FileName="suma_multiplos_3_5/Program.cs" Line="30" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

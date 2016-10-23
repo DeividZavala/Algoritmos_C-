@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Mayusculas_y_minusculas/Mayusculas_y_minusculas.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mayusculas_y_minusculas/Program.cs">
+    <Files>
+      <File FileName="Mayusculas_y_minusculas/Program.cs" Line="24" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

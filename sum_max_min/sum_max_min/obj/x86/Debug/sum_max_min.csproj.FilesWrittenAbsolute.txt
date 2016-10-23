@@ -1,0 +1,5 @@
+/Users/Deivid/Projects/sum_max_min/sum_max_min/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Deivid/Projects/sum_max_min/sum_max_min/bin/Debug/sum_max_min.exe.mdb
+/Users/Deivid/Projects/sum_max_min/sum_max_min/bin/Debug/sum_max_min.exe
+/Users/Deivid/Projects/sum_max_min/sum_max_min/obj/x86/Debug/sum_max_min.exe
+/Users/Deivid/Projects/sum_max_min/sum_max_min/obj/x86/Debug/sum_max_min.exe.mdb

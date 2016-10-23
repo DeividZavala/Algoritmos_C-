@@ -1,0 +1,5 @@
+/Users/Deivid/Projects/de_A_to_B/de_A_to_B/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Deivid/Projects/de_A_to_B/de_A_to_B/bin/Debug/de_A_to_B.exe.mdb
+/Users/Deivid/Projects/de_A_to_B/de_A_to_B/bin/Debug/de_A_to_B.exe
+/Users/Deivid/Projects/de_A_to_B/de_A_to_B/obj/x86/Debug/de_A_to_B.exe
+/Users/Deivid/Projects/de_A_to_B/de_A_to_B/obj/x86/Debug/de_A_to_B.exe.mdb

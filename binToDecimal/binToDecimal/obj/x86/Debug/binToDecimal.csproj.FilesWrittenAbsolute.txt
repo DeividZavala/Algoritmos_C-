@@ -1,0 +1,10 @@
+/Users/Deivid/Desktop/Pruebas/testing_csharp/binToDecimal/binToDecimal/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Deivid/Desktop/Pruebas/testing_csharp/binToDecimal/binToDecimal/bin/Debug/binToDecimal.exe.mdb
+/Users/Deivid/Desktop/Pruebas/testing_csharp/binToDecimal/binToDecimal/bin/Debug/binToDecimal.exe
+/Users/Deivid/Desktop/Pruebas/testing_csharp/binToDecimal/binToDecimal/obj/x86/Debug/binToDecimal.exe
+/Users/Deivid/Desktop/Pruebas/testing_csharp/binToDecimal/binToDecimal/obj/x86/Debug/binToDecimal.exe.mdb
+/Users/Deivid/Projects/binToDecimal/binToDecimal/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Deivid/Projects/binToDecimal/binToDecimal/bin/Debug/binToDecimal.exe.mdb
+/Users/Deivid/Projects/binToDecimal/binToDecimal/bin/Debug/binToDecimal.exe
+/Users/Deivid/Projects/binToDecimal/binToDecimal/obj/x86/Debug/binToDecimal.exe
+/Users/Deivid/Projects/binToDecimal/binToDecimal/obj/x86/Debug/binToDecimal.exe.mdb

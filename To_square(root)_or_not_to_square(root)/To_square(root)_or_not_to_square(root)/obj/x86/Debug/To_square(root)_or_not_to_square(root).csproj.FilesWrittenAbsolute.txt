@@ -1,0 +1,5 @@
+/Users/Deivid/Projects/To_square(root)_or_not_to_square(root)/To_square(root)_or_not_to_square(root)/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Deivid/Projects/To_square(root)_or_not_to_square(root)/To_square(root)_or_not_to_square(root)/bin/Debug/To_square(root)_or_not_to_square(root).exe.mdb
+/Users/Deivid/Projects/To_square(root)_or_not_to_square(root)/To_square(root)_or_not_to_square(root)/bin/Debug/To_square(root)_or_not_to_square(root).exe
+/Users/Deivid/Projects/To_square(root)_or_not_to_square(root)/To_square(root)_or_not_to_square(root)/obj/x86/Debug/To_square(root)_or_not_to_square(root).exe
+/Users/Deivid/Projects/To_square(root)_or_not_to_square(root)/To_square(root)_or_not_to_square(root)/obj/x86/Debug/To_square(root)_or_not_to_square(root).exe.mdb

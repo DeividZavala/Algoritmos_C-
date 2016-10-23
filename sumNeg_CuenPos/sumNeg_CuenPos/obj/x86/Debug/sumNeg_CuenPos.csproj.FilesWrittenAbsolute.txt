@@ -1,0 +1,5 @@
+/Users/Deivid/Projects/sumNeg_CuenPos/sumNeg_CuenPos/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Deivid/Projects/sumNeg_CuenPos/sumNeg_CuenPos/bin/Debug/sumNeg_CuenPos.exe.mdb
+/Users/Deivid/Projects/sumNeg_CuenPos/sumNeg_CuenPos/bin/Debug/sumNeg_CuenPos.exe
+/Users/Deivid/Projects/sumNeg_CuenPos/sumNeg_CuenPos/obj/x86/Debug/sumNeg_CuenPos.exe
+/Users/Deivid/Projects/sumNeg_CuenPos/sumNeg_CuenPos/obj/x86/Debug/sumNeg_CuenPos.exe.mdb

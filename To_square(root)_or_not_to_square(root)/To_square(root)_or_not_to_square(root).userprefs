@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="To_square(root)_or_not_to_square(root)/To_square(root)_or_not_to_square(root).csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="To_square(root)_or_not_to_square(root)/Program.cs">
+    <Files>
+      <File FileName="To_square(root)_or_not_to_square(root)/Program.cs" Line="17" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

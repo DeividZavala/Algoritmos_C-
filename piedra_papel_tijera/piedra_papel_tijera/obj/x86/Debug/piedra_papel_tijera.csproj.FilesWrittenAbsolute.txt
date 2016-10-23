@@ -1,0 +1,5 @@
+/Users/Deivid/Projects/piedra_papel_tijera/piedra_papel_tijera/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Deivid/Projects/piedra_papel_tijera/piedra_papel_tijera/bin/Debug/piedra_papel_tijera.exe.mdb
+/Users/Deivid/Projects/piedra_papel_tijera/piedra_papel_tijera/bin/Debug/piedra_papel_tijera.exe
+/Users/Deivid/Projects/piedra_papel_tijera/piedra_papel_tijera/obj/x86/Debug/piedra_papel_tijera.exe
+/Users/Deivid/Projects/piedra_papel_tijera/piedra_papel_tijera/obj/x86/Debug/piedra_papel_tijera.exe.mdb

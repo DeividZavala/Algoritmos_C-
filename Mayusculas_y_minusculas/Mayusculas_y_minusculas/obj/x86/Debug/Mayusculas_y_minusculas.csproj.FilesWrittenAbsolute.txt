@@ -1,0 +1,5 @@
+/Users/Deivid/Projects/Mayusculas_y_minusculas/Mayusculas_y_minusculas/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Deivid/Projects/Mayusculas_y_minusculas/Mayusculas_y_minusculas/bin/Debug/Mayusculas_y_minusculas.exe.mdb
+/Users/Deivid/Projects/Mayusculas_y_minusculas/Mayusculas_y_minusculas/bin/Debug/Mayusculas_y_minusculas.exe
+/Users/Deivid/Projects/Mayusculas_y_minusculas/Mayusculas_y_minusculas/obj/x86/Debug/Mayusculas_y_minusculas.exe
+/Users/Deivid/Projects/Mayusculas_y_minusculas/Mayusculas_y_minusculas/obj/x86/Debug/Mayusculas_y_minusculas.exe.mdb

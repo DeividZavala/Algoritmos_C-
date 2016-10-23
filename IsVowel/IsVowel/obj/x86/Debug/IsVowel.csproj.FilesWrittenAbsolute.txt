@@ -1,0 +1,5 @@
+/Users/Deivid/Projects/IsVowel/IsVowel/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Deivid/Projects/IsVowel/IsVowel/bin/Debug/IsVowel.exe.mdb
+/Users/Deivid/Projects/IsVowel/IsVowel/bin/Debug/IsVowel.exe
+/Users/Deivid/Projects/IsVowel/IsVowel/obj/x86/Debug/IsVowel.exe
+/Users/Deivid/Projects/IsVowel/IsVowel/obj/x86/Debug/IsVowel.exe.mdb

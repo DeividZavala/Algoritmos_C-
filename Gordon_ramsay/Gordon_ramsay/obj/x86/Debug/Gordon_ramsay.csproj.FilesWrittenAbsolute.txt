@@ -1,0 +1,5 @@
+/Users/Deivid/Projects/Gordon_ramsay/Gordon_ramsay/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Deivid/Projects/Gordon_ramsay/Gordon_ramsay/bin/Debug/Gordon_ramsay.exe.mdb
+/Users/Deivid/Projects/Gordon_ramsay/Gordon_ramsay/bin/Debug/Gordon_ramsay.exe
+/Users/Deivid/Projects/Gordon_ramsay/Gordon_ramsay/obj/x86/Debug/Gordon_ramsay.exe
+/Users/Deivid/Projects/Gordon_ramsay/Gordon_ramsay/obj/x86/Debug/Gordon_ramsay.exe.mdb

@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="de_A_to_B/de_A_to_B.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="de_A_to_B/Program.cs">
+    <Files>
+      <File FileName="de_A_to_B/Program.cs" Line="22" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
